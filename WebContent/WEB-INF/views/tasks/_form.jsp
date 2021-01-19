@@ -3,8 +3,8 @@
 
 <br /><br />
 
-<label for="content">メッセージ</label><br />
-<input type="text" name="content" value="${message.content}" />
+<label for="content">タスク</label><br />
+<input type="text" name="content" value="${task.content}" />
 <br /><br />
 
 <input type="hidden" name="_token" value="${_token}" />
